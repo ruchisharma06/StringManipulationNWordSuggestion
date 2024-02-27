@@ -19,5 +19,5 @@ Modify the vocabulary file path and other parameters as necessary.
 
 ## Note
 
-Please replace placeholders like `your-username`, `/path/to/vocabulary.txt`, and adapt the file structure section based on your actual project structure. Additionally, add any further details or instructions that might be relevant to your users.
+Please replace placeholders like `your-username`, `/path/to/vocabulary.txt`, and adapt the file structure section based on your actual project structure. Additionally, add any further details or instructions that might be relevant to you.
 
